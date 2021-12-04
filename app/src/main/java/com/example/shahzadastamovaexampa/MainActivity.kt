@@ -6,6 +6,7 @@ import android.os.Bundle
 import androidx.appcompat.widget.AppCompatButton
 import androidx.appcompat.widget.AppCompatEditText
 
+//Shahzada Stamova
 class MainActivity : AppCompatActivity(), EnterData {
 
     override fun onCreate(savedInstanceState: Bundle?) {
